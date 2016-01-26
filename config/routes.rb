@@ -1,7 +1,7 @@
 Rails.application.routes.draw do
-  get 'users/index'
+  get 'dropdown/index'
 
-  get 'users/new'
+  #root to: 'meetups#new'
 
   root to: 'users#index' 
   # The priority is based upon order of creation: first created -> highest priority.
