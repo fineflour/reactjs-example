@@ -13,6 +13,10 @@ gem 'uglifier', '>= 1.3.0'
 gem 'coffee-rails', '~> 4.1.0'
 gem 'react-rails'
 gem 'pg'
+gem 'bootstrap-sass', '~> 3.3.6'
+gem 'react-bootstrap-rails'
+gem 'bootstrap-form'
+
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 
